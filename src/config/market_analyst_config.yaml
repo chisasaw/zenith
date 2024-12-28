@@ -1,0 +1,10 @@
+analysis:
+  moving_average_short_window: 20
+  moving_average_long_window: 50
+  rsi_period: 14
+  volatility_period: 20
+
+sentiment_analysis:
+  default_keywords: ["bitcoin", "ethereum", "ai"]
+  timeframe: "now 7-d"
+  region: "US" 

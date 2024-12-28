@@ -1,0 +1,6 @@
+yfinance
+click
+matplotlib 
+pytrends
+pandas 
+seaborn 
